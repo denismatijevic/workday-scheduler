@@ -4,3 +4,4 @@
 * The planner is on a 24hr clock to prevent time confusion
 * It is color coded for past, present and future events
 * You are able to save and edit your schedule by the hour
+* Should be responsive to mobile screens
